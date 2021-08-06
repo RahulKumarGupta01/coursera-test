@@ -16,15 +16,15 @@ h2{
     padding: 10px;
 }
 .col-1, .col-2, .col-3{
-    border: 1px solid black;
+    border: 3px solid black;
     float: left;
     background-color: rgba(168, 163, 163, 0.836);
 }
 .name-1,.name-2,.name-3{
-    border: 1px solid black;
+    border: 3px solid black;
     float: right;
-    margin-top: -1px;
-    margin-right: -1px;
+    margin-top: -3px;
+    margin-right: -3px;
     padding: 10px 50px;
 }
 .name-1{
